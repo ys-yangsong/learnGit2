@@ -8,3 +8,6 @@ learnGit2  用于测试clone命令
 
 
   Creating a new branch is quick and simple.
+
+
+  制造冲突  222222
