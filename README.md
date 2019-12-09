@@ -12,3 +12,5 @@ learnGit2  用于测试clone命令
   制造一种冲突  1111111
 
 add merge!!!!
+  
+  merge 行行行行行·······
