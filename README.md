@@ -7,7 +7,7 @@ learnGit2  用于测试clone命令
   Creating a new branch is quick.
 
 
-  Creating a new branch is quick and simple.
+  Creating a new branch is quick AND simple.
 
+  制造一种冲突  1111111
 
-  制造冲突  222222
