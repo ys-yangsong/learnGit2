@@ -14,6 +14,11 @@ learnGit2  用于测试clone命令
 add merge!!!!
   
   merge 行行行行行·······
+
+
+
+  测试pull修改
+
     
    feature2  修改一行内容 2019年12月9日15:34:05
 
@@ -28,3 +33,5 @@ github添加  用于dev本地还未往github上提交前，github就改变，造
 
 
 本地feature3  添加一行内容
+github添加  用于dev本地还未往github上提交前，github就改变，造成冲突的测试
+
